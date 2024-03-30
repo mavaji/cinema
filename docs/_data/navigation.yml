@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: https://mavaji.github.io/
+  - title: "تعلیم خط"
+    url: https://mavaji.github.io/calligraphy/
+  - title: "Publications"
+    url: https://mavaji.github.io/publications/
+  - title: "Translations"
+    url: https://mavaji.github.io/translations/
+  - title: "Tags"
+    url: /tags/
