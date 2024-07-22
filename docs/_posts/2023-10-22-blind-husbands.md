@@ -25,4 +25,5 @@ gallery:
     image_path: /assets/images/1919-Blind Husbands/07.png
 
 ---
+★★★★★★★☆☆☆
 {% include gallery %}

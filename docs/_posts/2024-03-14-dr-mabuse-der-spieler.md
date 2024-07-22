@@ -67,4 +67,5 @@ gallery:
     image_path: /assets/images/1922-Dr. Mabuse, Der Spieler/28.jpg
  
 ---
+★★★★★★★★★☆
 {% include gallery %}

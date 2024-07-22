@@ -27,4 +27,5 @@ gallery:
     image_path: /assets/images/1924-He Who Gets Slapped/08.jpg
  
 ---
+★★★★★★★☆☆☆
 {% include gallery %}

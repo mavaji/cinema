@@ -31,4 +31,5 @@ gallery:
     image_path: /assets/images/1922-Nosferatu/10.png
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

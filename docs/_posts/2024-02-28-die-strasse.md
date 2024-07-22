@@ -49,4 +49,5 @@ gallery:
     image_path: /assets/images/1923-Die Straße/19.jpg
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

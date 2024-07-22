@@ -31,4 +31,5 @@ gallery:
     image_path: /assets/images/1925-Battleship Potemkin/10.png
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

@@ -27,4 +27,5 @@ gallery:
     image_path: /assets/images/1968-The Odd Couple/08.png
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

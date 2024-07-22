@@ -39,4 +39,5 @@ gallery:
     image_path: /assets/images/1928-Show People/14.jpg
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

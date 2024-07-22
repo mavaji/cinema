@@ -51,4 +51,5 @@ gallery:
     image_path: /assets/images/1957-White Nights/20.jpg
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

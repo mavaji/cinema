@@ -29,4 +29,5 @@ gallery:
     image_path: /assets/images/1962-Days of Wine and Roses/10.png
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

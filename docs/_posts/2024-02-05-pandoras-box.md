@@ -43,4 +43,5 @@ gallery:
     image_path: /assets/images/1929-Pandora's Box/16.jpg
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

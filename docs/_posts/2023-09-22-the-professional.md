@@ -27,4 +27,5 @@ gallery:
     image_path: /assets/images/1981-The Professional/08.png
 
 ---
+★★★★★★☆☆☆☆
 {% include gallery %}

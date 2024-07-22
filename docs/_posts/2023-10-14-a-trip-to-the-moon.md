@@ -13,4 +13,5 @@ gallery:
     image_path: /assets/images/1902-A Trip to the Moon/01.png
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

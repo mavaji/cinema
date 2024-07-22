@@ -55,4 +55,5 @@ gallery:
     image_path: /assets/images/1951-Bellissima/22.jpg
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

@@ -55,4 +55,5 @@ gallery:
     image_path: /assets/images/1959-Les Quatre Cents Coups/22.jpg
 
 ---
+★★★★★★★★★★
 {% include gallery %}

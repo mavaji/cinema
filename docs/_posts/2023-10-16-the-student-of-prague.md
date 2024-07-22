@@ -46,4 +46,5 @@ gallery:
     image_path: /assets/images/1913-The Student of Prague/17.png
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

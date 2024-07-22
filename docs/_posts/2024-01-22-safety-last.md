@@ -36,4 +36,5 @@ gallery:
     image_path: /assets/images/1923-Safety Last/12.jpg
   
 ---
+★★★★★★★★★☆
 {% include gallery %}

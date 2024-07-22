@@ -30,4 +30,5 @@ gallery:
     image_path: /assets/images/1920-The Scarecrow/09.jpg
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

@@ -31,4 +31,5 @@ gallery:
     image_path: /assets/images/1921-The Phantom Carriage/10.png
  
 ---
+★★★★★★★★★★
 {% include gallery %}

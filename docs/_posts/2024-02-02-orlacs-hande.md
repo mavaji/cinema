@@ -45,4 +45,5 @@ gallery:
     image_path: /assets/images/1924-Orlacs Hände/17.jpg
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

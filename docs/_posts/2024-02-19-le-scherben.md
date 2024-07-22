@@ -29,4 +29,5 @@ gallery:
     image_path: /assets/images/1921-Scherben/09.jpg
 
 ---
+★★★★★★☆☆☆☆
 {% include gallery %}

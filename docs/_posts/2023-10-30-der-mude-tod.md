@@ -37,4 +37,5 @@ gallery:
     image_path: /assets/images/1921-Der müde Tod/13.png
  
 ---
+★★★★★★★★★☆
 {% include gallery %}

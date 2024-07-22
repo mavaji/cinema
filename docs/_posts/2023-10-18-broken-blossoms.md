@@ -41,4 +41,5 @@ gallery:
     image_path: /assets/images/1919-Broken Blossoms/15.png
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

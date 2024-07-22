@@ -33,4 +33,5 @@ gallery:
     image_path: /assets/images/1921-Schloß Vogelöd/11.jpg
  
 ---
+★★★★★★★★☆☆
 {% include gallery %}

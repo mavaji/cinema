@@ -45,4 +45,5 @@ gallery:
     image_path: /assets/images/1943-Obsession/17.jpg
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

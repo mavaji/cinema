@@ -27,4 +27,5 @@ gallery:
     image_path: /assets/images/2001-Waiting for Godot/08.jpg
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

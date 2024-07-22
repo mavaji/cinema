@@ -49,4 +49,5 @@ gallery:
     image_path: /assets/images/1950-The Asphalt Jungle/19.jpg
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

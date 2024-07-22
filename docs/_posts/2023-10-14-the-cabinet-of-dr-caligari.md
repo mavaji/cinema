@@ -25,4 +25,5 @@ gallery:
     image_path: /assets/images/1920-The Cabinet of Dr. Caligari/07.png
 
 ---
+★★★★★★★★★★
 {% include gallery %}

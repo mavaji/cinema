@@ -39,4 +39,5 @@ gallery:
     image_path: /assets/images/1926-Die letzte Droschke von Berlin/14.jpg
  
 ---
+★★★★★★★☆☆☆
 {% include gallery %}

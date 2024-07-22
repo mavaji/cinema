@@ -37,4 +37,5 @@ gallery:
     image_path: /assets/images/1961-Judgment at Nuremberg/13.png
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

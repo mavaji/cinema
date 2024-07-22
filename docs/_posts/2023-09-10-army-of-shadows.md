@@ -25,4 +25,5 @@ gallery:
     image_path: /assets/images/1969-Army of Shadows/08.png
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

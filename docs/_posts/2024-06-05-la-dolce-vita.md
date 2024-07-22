@@ -69,4 +69,5 @@ gallery:
     image_path: /assets/images/1960-La Dolce Vita/29.jpg
 
 ---
+★★★★★★★☆☆☆
 {% include gallery %}

@@ -21,4 +21,5 @@ gallery:
     image_path: /assets/images/1958-Elevator to the Gallows/06.png
 
 ---
+★★★★★★★★★★
 {% include gallery %}

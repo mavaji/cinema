@@ -29,4 +29,5 @@ gallery:
     image_path: /assets/images/1958-Cat on a Hot Tin Roof/09.png
 
 ---
+★★★★★★★★★☆
 {% include gallery %}

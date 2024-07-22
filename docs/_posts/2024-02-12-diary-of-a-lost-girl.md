@@ -29,4 +29,5 @@ gallery:
     image_path: /assets/images/1929-Diary of a Lost Girl/09.jpg
 
 ---
+★★★★★★★★☆☆
 {% include gallery %}

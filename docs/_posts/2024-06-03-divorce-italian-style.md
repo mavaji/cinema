@@ -59,4 +59,5 @@ gallery:
     image_path: /assets/images/1961-Divorce Italian Style/24.jpg
 
 ---
+★★★★★★★★★★
 {% include gallery %}
