@@ -54,7 +54,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 words_per_minute: 200
 show_date: true
-date_format: "%d %b %Y" # https://www.shortcutfoo.com/app/dojos/ruby-date-format-strftime/cheatsheet
+date_format: "%d %B %Y" # https://www.shortcutfoo.com/app/dojos/ruby-date-format-strftime/cheatsheet
 
 defaults:
   # _posts
