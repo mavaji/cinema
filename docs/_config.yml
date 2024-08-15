@@ -47,7 +47,6 @@ footer:
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
-  - jekyll-feed
   - jekyll-include-cache
 
 search: true
@@ -70,8 +69,6 @@ defaults:
       author_profile: false
       share: false
       related: true
-#      classes: wide
-
   # _pages
   - scope:
       path: ""
@@ -92,14 +89,5 @@ include:
 
 timezone: Australia/Melbourne
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+atom_feed:
+  hide: true
