@@ -11,5 +11,6 @@ gallery:
     image_path: /assets/images/2012-It's Such a Beautiful Day/00.png  
 
 ---
-★★★★★★☆☆☆☆
+●●●○○
+
 {% include gallery %}

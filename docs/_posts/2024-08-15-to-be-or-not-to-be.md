@@ -65,5 +65,6 @@ gallery:
     image_path: /assets/images/1942-To Be or Not to Be/27.jpg
 
 ---
-★★★★★★★★★★
+●●●●●
+
 {% include gallery %}

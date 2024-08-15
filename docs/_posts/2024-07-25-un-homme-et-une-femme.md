@@ -69,5 +69,6 @@ gallery:
     image_path: /assets/images/1966-Un Homme et Une Femme/29.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

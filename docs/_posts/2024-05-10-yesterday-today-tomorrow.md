@@ -45,5 +45,6 @@ gallery:
     image_path: /assets/images/1963-Yesterday, Today and Tomorrow/17.jpg
 
 ---
-★★★★★★★☆☆☆
+●●●◐○
+
 {% include gallery %}

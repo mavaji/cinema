@@ -47,5 +47,6 @@ gallery:
     image_path: /assets/images/1946-The Killers/18.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

@@ -37,5 +37,6 @@ gallery:
     image_path: /assets/images/1921-Der Gang In Die Nacht/13.jpg
  
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

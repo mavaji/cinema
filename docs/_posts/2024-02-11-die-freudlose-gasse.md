@@ -51,5 +51,6 @@ gallery:
     image_path: /assets/images/1925-Die Freudlose Gasse/20.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

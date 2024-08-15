@@ -61,5 +61,6 @@ gallery:
     image_path: /assets/images/1962-Vivre sa vie/25.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

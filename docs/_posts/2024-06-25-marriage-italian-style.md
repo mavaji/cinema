@@ -73,5 +73,6 @@ gallery:
     image_path: /assets/images/1964-Marriage Italian Style/31.jpg
 
 ---
-★★★★★★★★★★
+●●●●●
+
 {% include gallery %}

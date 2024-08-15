@@ -27,5 +27,6 @@ gallery:
     image_path: /assets/images/1928-The Last Command/08.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

@@ -51,5 +51,6 @@ gallery:
     image_path: /assets/images/1927-Metropolis/20.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

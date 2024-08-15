@@ -79,5 +79,6 @@ gallery:
     image_path: /assets/images/1969-Ma nuit chez Maud/34.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

@@ -13,5 +13,6 @@ gallery:
     image_path: /assets/images/1903-The Great Train Robbery/01.jpg
 
 ---
-★★★★★★★☆☆☆
+●●●◐○
+
 {% include gallery %}

@@ -28,5 +28,6 @@ gallery:
     image_path: /assets/images/1921-Hintertreppe/08.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

@@ -35,5 +35,6 @@ gallery:
     image_path: /assets/images/1967-Le Samouraï/12.jpg
  
 ---
-★★★★★★★☆☆☆
+●●●◐○
+
 {% include gallery %}

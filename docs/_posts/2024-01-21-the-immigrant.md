@@ -21,5 +21,6 @@ gallery:
     image_path: /assets/images/1917-The Immigrant/05.jpg
 
 ---
-★★★★★★★☆☆☆
+●●●◐○
+
 {% include gallery %}

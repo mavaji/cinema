@@ -35,5 +35,6 @@ gallery:
     image_path: /assets/images/1927-The Lodger/12.jpg
 
 ---
-★★★★★★★★★☆
+●●●●◐
+
 {% include gallery %}

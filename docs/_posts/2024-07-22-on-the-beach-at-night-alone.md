@@ -33,6 +33,7 @@ gallery:
     image_path: /assets/images/2017-On the Beach at Night Alone/11.jpg
 
 ---
-★★★★★☆☆☆☆☆
+●●◐○○
+
 {% include gallery %}
 

@@ -41,5 +41,6 @@ gallery:
     image_path: /assets/images/1966-Au Hasard Balthazar/15.jpg
 
 ---
-★★★★★★☆☆☆☆
+●●●○○
+
 {% include gallery %}

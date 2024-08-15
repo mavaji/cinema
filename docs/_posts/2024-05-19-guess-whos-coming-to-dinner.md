@@ -37,5 +37,6 @@ gallery:
     image_path: /assets/images/1967-Guess Who's Coming to Dinner/13.jpg
  
 ---
-★★★★★★★☆☆☆
+●●●◐○
+
 {% include gallery %}

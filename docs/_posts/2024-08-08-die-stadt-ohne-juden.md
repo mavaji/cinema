@@ -55,5 +55,6 @@ gallery:
     image_path: /assets/images/1924-Die Stadt ohne Juden/22.jpg
 
 ---
-★★★★★★★☆☆☆
+●●●◐○
+
 {% include gallery %}

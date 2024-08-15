@@ -57,5 +57,6 @@ gallery:
     image_path: /assets/images/1919-Die Austernprinzessin/23.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

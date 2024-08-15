@@ -31,5 +31,6 @@ gallery:
     image_path: /assets/images/1920-From Morning to Midnight/10.jpg
 
 ---
-★★★★★★★★★☆
+●●●●◐
+
 {% include gallery %}

@@ -63,5 +63,6 @@ gallery:
     image_path: /assets/images/1973-La Bonne Année/26.jpg
 
 ---
-★★★★★★★★☆☆
+●●●●○
+
 {% include gallery %}

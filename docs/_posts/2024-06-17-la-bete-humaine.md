@@ -43,5 +43,6 @@ gallery:
     image_path: /assets/images/1938-La Bête Humaine/16.jpg
 
 ---
-★★★★★★★☆☆☆
+●●●◐○
+
 {% include gallery %}

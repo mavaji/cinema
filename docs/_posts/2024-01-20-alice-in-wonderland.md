@@ -21,5 +21,6 @@ gallery:
     image_path: /assets/images/1915-Alice in Wonderland/05.jpg
 
 ---
-★★★★★★☆☆☆☆
+●●●○○
+
 {% include gallery %}

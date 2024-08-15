@@ -55,5 +55,6 @@ gallery:
     image_path: /assets/images/1960-Rocco and His Brothers/22.png
 
 ---
-★★★★★★★★★☆
+●●●●◐
+
 {% include gallery %}

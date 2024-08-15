@@ -13,5 +13,6 @@ gallery:
     image_path: /assets/images/1929-Un Chien Andalou/01.jpg
   
 ---
-★★★★★☆☆☆☆☆
+●●◐○○
+
 {% include gallery %}

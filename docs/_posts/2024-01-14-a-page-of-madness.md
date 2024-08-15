@@ -13,5 +13,6 @@ gallery:
     image_path: /assets/images/1926-A Page of Madness/01.jpg
 
 ---
-★★★★★☆☆☆☆☆
+●●◐○○
+
 {% include gallery %}
