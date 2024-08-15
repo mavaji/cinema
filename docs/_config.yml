@@ -65,7 +65,7 @@ defaults:
     values:
       layout: single
       show_date: true
-      read_time: true
+      read_time: false
       comments: false
       author_profile: false
       share: false
