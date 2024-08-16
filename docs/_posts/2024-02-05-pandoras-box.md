@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Pandora's Box (1929)"
+title: "Die Büchse der Pandora (1929)"
 tags:
   - 1920s 
   - Georg Wilhelm Pabst

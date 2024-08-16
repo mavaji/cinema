@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Student of Prague (1913)"
+title: "Der Student von Prag (1913)"
 tags:
   - 1910s 
   - Hanns Heinz Ewers

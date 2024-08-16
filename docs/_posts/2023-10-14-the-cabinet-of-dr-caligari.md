@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Cabinet of Dr. Caligari (1920)"
+title: "Das Cabinet des Dr. Caligari (1920)"
 tags:
   - 1920s 
   - Robert Wiene

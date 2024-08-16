@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A Trip to the Moon (1902)"
+title: "Le voyage dans la lune (1902)"
 tags:
   - 1900s 
   - Georges Méliès

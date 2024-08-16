@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Professional (1981)"
+title: "Le professionnel (1981)"
 tags:
   - 1980s 
   - Georges Lautner

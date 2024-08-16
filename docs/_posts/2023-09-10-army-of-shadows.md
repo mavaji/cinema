@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Army of Shadows (1969)"
+title: "L'armée des ombres (1969)"
 tags:
   - 1960s 
   - Jean-Pierre Melville

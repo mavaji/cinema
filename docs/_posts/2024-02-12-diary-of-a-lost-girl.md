@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Diary of a Lost Girl (1929)"
+title: "Tagebuch einer Verlorenen (1929)"
 tags:
   - 1920s 
   - Georg Wilhelm Pabst
