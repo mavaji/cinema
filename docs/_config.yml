@@ -50,7 +50,7 @@ plugins:
   - jekyll-include-cache
 
 search: true
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 words_per_minute: 200
 show_date: true
