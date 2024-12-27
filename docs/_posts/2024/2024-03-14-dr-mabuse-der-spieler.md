@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Dr. Mabuse, Der Spieler (1922)"
+imdb_url: "tt0013086"
+wikipedia_url: "Dr. Mabuse the Gambler"
 tags:
   - 1920s 
   - Fritz Lang

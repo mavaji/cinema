@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Falling Leaves (1912)"
+imdb_url: "tt0210675"
+wikipedia_url: "Falling Leaves (1912 film)"
 tags:
   - 1910s 
   - Alice Guy

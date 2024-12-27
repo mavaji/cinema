@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Marriage Italian Style (1964)"
+imdb_url: "tt0058335"
+wikipedia_url: "Marriage Italian Style"
 tags:
   - 1960s 
   - Vittorio De Sica

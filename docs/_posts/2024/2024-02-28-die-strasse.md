@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Die Straße (1923)"
+imdb_url: "tt0014516"
+wikipedia_url: "The Street (1923 film)"
 tags:
   - 1920s 
   - Karl Grune

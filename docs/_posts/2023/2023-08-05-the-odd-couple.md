@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Odd Couple (1968)"
+imdb_url: "tt0063374"
+wikipedia_url: "The Odd Couple (film)"
 tags:
   - 1960s 
   - Gene Saks

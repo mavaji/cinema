@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Shop Around the Corner (1940)"
+imdb_url: "tt0033045"
+wikipedia_url: "The Shop Around the Corner"
 tags:
   - 1940s 
   - Ernst Lubitsch

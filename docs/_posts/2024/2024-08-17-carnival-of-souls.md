@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Carnival of Souls (1962)"
+imdb_url: "tt0055830"
+wikipedia_url: "Carnival of Souls"
 tags:
   - 1960s 
   - Herk Harvey

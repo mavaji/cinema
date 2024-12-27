@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Safety Last! (1923)"
+imdb_url: "tt0014429"
+wikipedia_url: "Safety Last!"
 tags:
   - 1920s 
   - Fred C. Newmeyer

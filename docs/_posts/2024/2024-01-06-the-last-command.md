@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Last Command (1928)"
+imdb_url: "tt0019071"
+wikipedia_url: "The Last Command (1928 film)"
 tags:
   - 1920s 
   - Josef von Sternberg

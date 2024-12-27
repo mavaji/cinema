@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Night of the Hunter (1955)"
+imdb_url: "tt0048424"
+wikipedia_url: "The Night of the Hunter (film)"
 tags:
   - 1950s 
   - Charles Laughton

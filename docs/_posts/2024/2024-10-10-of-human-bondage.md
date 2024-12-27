@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Of Human Bondage (1934)"
+imdb_url: "tt0025586"
+wikipedia_url: "Of Human Bondage (1934 film)"
 tags:
   - 1930s 
   - John Cromwell

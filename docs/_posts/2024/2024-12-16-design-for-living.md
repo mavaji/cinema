@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Design for Living (1933)"
+imdb_url: "tt0023940"
+wikipedia_url: "Design_for_Living_(film)"
 tags:
   - 1930s 
   - Ernst Lubitsch

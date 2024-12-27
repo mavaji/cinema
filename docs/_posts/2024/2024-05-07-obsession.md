@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Obsession (1943)"
+imdb_url: "tt0035160"
+wikipedia_url: "Ossessione"
 tags:
   - 1940s 
   - Luchino Visconti

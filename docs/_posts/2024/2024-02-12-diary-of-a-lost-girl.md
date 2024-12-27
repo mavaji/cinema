@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Tagebuch einer Verlorenen (1929)"
+imdb_url: "tt0020475"
+wikipedia_url: "Diary of a Lost Girl"
 tags:
   - 1920s 
   - Georg Wilhelm Pabst

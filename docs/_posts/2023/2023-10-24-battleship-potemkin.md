@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Battleship Potemkin (1925)"
+imdb_url: "tt0015648"
+wikipedia_url: "Battleship Potemkin"
 tags:
   - 1920s 
   - Sergei Eisenstein

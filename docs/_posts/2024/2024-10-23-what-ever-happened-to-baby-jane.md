@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "What Ever Happened to Baby Jane? (1962)"
+imdb_url: "tt0056687"
+wikipedia_url: "What_Ever_Happened_to_Baby_Jane%3F_(film)"
 tags:
   - 1960s 
   - Robert Aldrich

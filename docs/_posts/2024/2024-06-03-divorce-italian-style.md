@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Divorce Italian Style (1961)"
+imdb_url: "tt0055913"
+wikipedia_url: "Divorce Italian Style"
 tags:
   - 1960s 
   - Pietro Germi

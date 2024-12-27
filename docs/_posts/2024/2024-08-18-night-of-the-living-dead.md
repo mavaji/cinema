@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Night of the Living Dead (1968)"
+imdb_url: "tt0063350"
+wikipedia_url: "Night of the Living Dead"
 tags:
   - 1960s 
   - George A. Romero

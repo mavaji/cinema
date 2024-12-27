@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Rocco and His Brothers (1960)"
+imdb_url: "tt0054248"
+wikipedia_url: "Rocco and His Brothers"
 tags:
   - 1960s 
   - Luchino Visconti

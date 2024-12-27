@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Die Letzte Droschke Von Berlin (1926)"
+imdb_url: "tt0201729"
+wikipedia_url: "The Last Horse Carriage in Berlin"
 tags:
   - 1920s 
   - Carl Boese

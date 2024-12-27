@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Als ich tot war (1916)"
+imdb_url: "tt0006349"
+wikipedia_url: ""
 tags:
   - 1910s 
   - Ernst Lubitsch

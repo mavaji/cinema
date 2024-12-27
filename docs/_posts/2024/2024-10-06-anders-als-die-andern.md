@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Anders als die Andern (1919)"
+imdb_url: "tt0009878"
+wikipedia_url: "Different from the Others"
 tags:
   - 1910s 
   - Richard Oswald

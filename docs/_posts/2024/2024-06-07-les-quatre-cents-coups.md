@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Les Quatre Cents Coups (1959)"
+imdb_url: "tt0053198"
+wikipedia_url: "The 400 Blows"
 tags:
   - 1950s 
   - François Truffaut

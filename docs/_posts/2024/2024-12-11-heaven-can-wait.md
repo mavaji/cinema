@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Heaven Can Wait (1943)"
+imdb_url: "tt0035979"
+wikipedia_url: "Heaven Can Wait (1943 film)"
 tags:
   - 1940s 
   - Ernst Lubitsch

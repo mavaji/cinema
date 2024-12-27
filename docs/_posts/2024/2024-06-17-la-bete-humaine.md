@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "La Bête Humaine (1938)"
+imdb_url: "tt0029957"
+wikipedia_url: "La Bête Humaine (film)"
 tags:
   - 1930s 
   - Jean Renoir

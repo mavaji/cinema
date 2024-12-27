@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Die Bergkatze (1921)"
+imdb_url: "tt0011960"
+wikipedia_url: "The Wildcat (1921 film)"
 tags:
   - 1920s 
   - Ernst Lubitsch

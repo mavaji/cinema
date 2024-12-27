@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Die Austernprinzessin (1919)"
+imdb_url: "tt0009893"
+wikipedia_url: "The Oyster Princess"
 tags:
   - 1910s 
   - Ernst Lubitsch

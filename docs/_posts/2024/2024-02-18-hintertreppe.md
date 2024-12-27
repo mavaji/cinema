@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Hintertreppe (1921)"
+imdb_url: "tt0012281"
+wikipedia_url: "Hintertreppe"
 tags:
   - 1920s 
   - Leopold Jessner

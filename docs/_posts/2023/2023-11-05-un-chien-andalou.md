@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Un Chien Andalou (1929)"
+imdb_url: "tt0020530"
+wikipedia_url: "Un Chien Andalou"
 tags:
   - 1920s 
   - Luis Buñuel

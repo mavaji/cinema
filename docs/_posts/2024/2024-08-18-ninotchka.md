@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Ninotchka (1939)"
+imdb_url: "tt0031725"
+wikipedia_url: "Ninotchka"
 tags:
   - 1930s 
   - Ernst Lubitsch

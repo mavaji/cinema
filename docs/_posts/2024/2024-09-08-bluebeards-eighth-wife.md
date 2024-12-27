@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Bluebeard's Eighth Wife (1938)"
+imdb_url: "tt0029929"
+wikipedia_url: "Bluebeard's Eighth Wife"
 tags:
   - 1930s 
   - Ernst Lubitsch

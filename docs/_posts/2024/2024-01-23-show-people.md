@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Show People (1928)"
+imdb_url: "tt0019379"
+wikipedia_url: "Show People"
 tags:
   - 1920s 
   - King Vidor

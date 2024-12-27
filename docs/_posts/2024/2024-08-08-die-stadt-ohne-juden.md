@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Die Stadt ohne Juden (1924)"
+imdb_url: "tt0016392"
+wikipedia_url: "The City Without Jews"
 tags:
   - 1920s 
   - H.K. Breslauer

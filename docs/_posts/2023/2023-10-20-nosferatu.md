@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Nosferatu, Eine Symphonie Des Grauens (1922)"
+imdb_url: "tt0013442"
+wikipedia_url: "Nosferatu"
 tags:
   - 1920s 
   - F.W. Murnau

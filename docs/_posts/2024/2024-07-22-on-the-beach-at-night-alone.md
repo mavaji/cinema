@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "On the Beach at Night Alone (2017)"
+imdb_url: "tt6412864"
+wikipedia_url: "On the Beach at Night Alone"
 tags:
   - 2010s 
   - Hong Sang-soo

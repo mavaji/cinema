@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Der Letzte Mann (1924)"
+imdb_url: "tt0015064"
+wikipedia_url: "The Last Laugh (1924 film)"
 tags:
   - 1920s 
   - F.W. Murnau

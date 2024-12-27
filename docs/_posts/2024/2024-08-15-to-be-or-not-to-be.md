@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "To Be or Not to Be (1942)"
+imdb_url: "tt0035446"
+wikipedia_url: "To Be or Not to Be (1942 film)"
 tags:
   - 1940s 
   - Ernst Lubitsch

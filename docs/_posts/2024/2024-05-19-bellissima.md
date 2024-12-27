@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Bellissima (1951)"
+imdb_url: "tt0043332"
+wikipedia_url: "Bellissima (film)"
 tags:
   - 1950s 
   - Luchino Visconti

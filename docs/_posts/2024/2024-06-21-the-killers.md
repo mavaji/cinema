@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Killers (1946)"
+imdb_url: "tt0038669"
+wikipedia_url: "The Killers (1946 film)"
 tags:
   - 1940s 
   - Robert Siodmak

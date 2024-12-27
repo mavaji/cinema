@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Breakfast at Tiffany's (1961)"
+imdb_url: "tt0054698"
+wikipedia_url: "Breakfast at Tiffany's (film)"
 tags:
   - 1960s 
   - Blake Edwards

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "La Dolce Vita (1960)"
+imdb_url: "tt0053779"
+wikipedia_url: "La dolce vita"
 tags:
   - 1960s 
   - Federico Fellini

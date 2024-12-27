@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Alice in Wonderland (1915)"
+imdb_url: "tt0004873"
+wikipedia_url: "Alice in Wonderland (1915 film)"
 tags:
   - 1910s 
   - W.W. Young

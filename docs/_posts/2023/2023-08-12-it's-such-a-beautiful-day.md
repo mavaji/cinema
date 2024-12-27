@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "It's Such a Beautiful Day (2012)"
+imdb_url: "tt2396224"
+wikipedia_url: "It's Such a Beautiful Day (film)"
 tags:
   - 2010s 
   - Don Hertzfeldt

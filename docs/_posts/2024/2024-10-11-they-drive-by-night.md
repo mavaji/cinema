@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "They Drive by Night (1940)"
+imdb_url: "tt0033149"
+wikipedia_url: "They Drive by Night"
 tags:
   - 1940s 
   - Raoul Walsh

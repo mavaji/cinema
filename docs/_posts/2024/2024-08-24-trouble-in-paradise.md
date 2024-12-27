@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Trouble in Paradise (1932)"
+imdb_url: "tt0023622"
+wikipedia_url: "Trouble in Paradise (1932 film)"
 tags:
   - 1930s 
   - Ernst Lubitsch

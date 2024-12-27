@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Yesterday, Today and Tomorrow (1963)"
+imdb_url: "tt0057171"
+wikipedia_url: "Yesterday, Today and Tomorrow"
 tags:
   - 1960s 
   - Vittorio De Sica

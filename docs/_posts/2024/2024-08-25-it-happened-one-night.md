@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "It Happened One Night (1934)"
+imdb_url: "tt0025316"
+wikipedia_url: "It Happened One Night"
 tags:
   - 1930s 
   - Frank Capra

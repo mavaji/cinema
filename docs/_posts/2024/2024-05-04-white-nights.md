@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "White Nights (1957)"
+imdb_url: "tt0050782"
+wikipedia_url: "White Nights (1957 film)"
 tags:
   - 1950s 
   - Luchino Visconti

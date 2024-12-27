@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Le voyage dans la lune (1902)"
+imdb_url: "tt0000417"
+wikipedia_url: "A Trip to the Moon"
 tags:
   - 1900s 
   - Georges Méliès

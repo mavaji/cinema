@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "A Page of Madness (1926)"
+imdb_url: "tt0017048"
+wikipedia_url: "A Page of Madness"
 tags:
   - 1920s 
   - Teinosuke Kinugasa

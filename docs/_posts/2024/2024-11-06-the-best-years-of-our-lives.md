@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Best Years of Our Lives (1946)"
+imdb_url: "tt0036868"
+wikipedia_url: "The Best Years of Our Lives"
 tags:
   - 1940s 
   - William Wyler

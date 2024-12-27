@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Metropolis (1927)"
+imdb_url: "tt0017136"
+wikipedia_url: "Metropolis (1927 film)"
 tags:
   - 1920s 
   - Fritz Lang

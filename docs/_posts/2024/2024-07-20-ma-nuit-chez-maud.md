@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Ma Nuit chez Maud (1969)"
+imdb_url: "tt0064612"
+wikipedia_url: "My Night at Maud's"
 tags:
   - 1960s 
   - Éric Rohmer

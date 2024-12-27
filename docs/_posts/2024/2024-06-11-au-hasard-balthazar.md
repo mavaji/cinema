@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Au Hasard Balthazar (1966)"
+imdb_url: "tt0060138"
+wikipedia_url: "Au hasard Balthazar"
 tags:
   - 1960s 
   - Robert Bresson

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Mysterious Lady (1928)"
+imdb_url: "tt0019195"
+wikipedia_url: "The Mysterious Lady"
 tags:
   - 1920s 
   - Fred Niblo

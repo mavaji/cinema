@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "La Bonne Année (1973)"
+imdb_url: "tt0069815"
+wikipedia_url: "La bonne année"
 tags:
   - 1970s 
   - Claude Lelouch

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Ascenseur pour l'échafaud (1958)"
+imdb_url: "tt0051378"
+wikipedia_url: "Elevator to the Gallows"
 tags:
   - 1950s 
   - Louis Malle

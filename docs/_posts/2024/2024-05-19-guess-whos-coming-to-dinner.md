@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Guess Who's Coming to Dinner (1967)"
+imdb_url: "tt0061735"
+wikipedia_url: "Guess Who's Coming to Dinner"
 tags:
   - 1960s 
   - Stanley Kramer

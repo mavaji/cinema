@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Madame DuBarry (1919)"
+imdb_url: "tt0002423"
+wikipedia_url: "Madame DuBarry (1919 film)"
 tags:
   - 1910s 
   - Ernst Lubitsch

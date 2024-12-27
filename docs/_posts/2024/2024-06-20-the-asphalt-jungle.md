@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Asphalt Jungle (1950)"
+imdb_url: "tt0042208"
+wikipedia_url: "The Asphalt Jungle"
 tags:
   - 1950s 
   - John Huston

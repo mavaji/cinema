@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Der Student von Prag (1913)"
+imdb_url: "tt0003419"
+wikipedia_url: "The Student of Prague (1913 film)"
 tags:
   - 1910s 
   - Hanns Heinz Ewers

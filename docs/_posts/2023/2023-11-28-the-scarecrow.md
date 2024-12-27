@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Scarecrow (1920)"
+imdb_url: "tt0011656"
+wikipedia_url: "The Scarecrow (1920 film)"
 tags:
   - 1920s 
   - Edward F. Cline

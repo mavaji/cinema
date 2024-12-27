@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Von morgens bis mitternachts (1920)"
+imdb_url: "tt0011833"
+wikipedia_url: "From Morn to Midnight"
 tags:
   - 1920s 
   - Karl Heinz Martin

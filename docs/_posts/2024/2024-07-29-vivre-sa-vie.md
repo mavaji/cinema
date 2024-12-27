@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Vivre sa vie: Film en douze tableaux (1962)"
+imdb_url: "tt0056663"
+wikipedia_url: "Vivre sa vie"
 tags:
   - 1960s 
   - Jean-Luc Godard

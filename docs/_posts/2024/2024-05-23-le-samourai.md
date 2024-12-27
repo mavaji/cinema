@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Le Samouraï (1967)"
+imdb_url: "tt0062229"
+wikipedia_url: "Le Samouraï"
 tags:
   - 1960s 
   - Jean-Pierre Melville

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Lodger: A Story of the London Fog (1927)"
+imdb_url: "tt0017075"
+wikipedia_url: "The Lodger: A Story of the London Fog"
 tags:
   - 1920s 
   - Alfred Hitchcock

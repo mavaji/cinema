@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Days of Wine and Roses (1962)"
+imdb_url: "tt0055895"
+wikipedia_url: "Days of Wine and Roses (film)"
 tags:
   - 1960s 
   - Blake Edwards

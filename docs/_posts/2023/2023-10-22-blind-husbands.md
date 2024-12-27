@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Blind Husbands (1919)"
+imdb_url: "tt0009937"
+wikipedia_url: "Blind Husbands"
 tags:
   - 1910s 
   - Erich von Stroheim

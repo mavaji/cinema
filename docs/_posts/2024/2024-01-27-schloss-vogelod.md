@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Schloß Vogelöd (1921)"
+imdb_url: "tt0012651"
+wikipedia_url: "The Haunted Castle (1921 film)"
 tags:
   - 1920s 
   - F.W. Murnau

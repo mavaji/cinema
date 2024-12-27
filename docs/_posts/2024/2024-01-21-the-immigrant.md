@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Immigrant (1917)"
+imdb_url: "tt0008133"
+wikipedia_url: "The Immigrant (1917 film)"
 tags:
   - 1910s 
   - Charles Chaplin

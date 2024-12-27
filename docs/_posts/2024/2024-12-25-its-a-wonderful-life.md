@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "It's a Wonderful Life (1946)"
+imdb_url: "tt0038650"
+wikipedia_url: "It's_a_Wonderful_Life"
 tags:
   - 1940s 
   - Frank Capra

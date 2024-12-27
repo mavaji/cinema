@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "To Have and Have Not (1944)"
+imdb_url: "tt0037382"
+wikipedia_url: "To Have and Have Not (film)"
 tags:
   - 1940s 
   - Howard Hawks

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Orlacs Hände (1924)"
+imdb_url: "tt0015202"
+wikipedia_url: "The Hands of Orlac (1924 film)"
 tags:
   - 1920s 
   - Robert Wiene

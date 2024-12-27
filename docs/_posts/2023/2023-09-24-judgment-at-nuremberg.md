@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Judgment at Nuremberg (1961)"
+imdb_url: "tt0055031"
+wikipedia_url: "Judgment at Nuremberg"
 tags:
   - 1960s 
   - Stanley Kramer

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Le professionnel (1981)"
+imdb_url: "tt0082949"
+wikipedia_url: "The Professional (1981 film)"
 tags:
   - 1980s 
   - Georges Lautner

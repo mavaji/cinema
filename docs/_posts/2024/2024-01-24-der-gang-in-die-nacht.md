@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Der Gang In Die Nacht (1921)"
+imdb_url: "tt0011217"
+wikipedia_url: "Journey into the Night"
 tags:
   - 1920s 
   - F.W. Murnau

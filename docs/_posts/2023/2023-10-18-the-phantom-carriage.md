@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Phantom Carriage (1921)"
+imdb_url: "tt0012364"
+wikipedia_url: "The Phantom Carriage"
 tags:
   - 1920s 
   - Victor Sjöström

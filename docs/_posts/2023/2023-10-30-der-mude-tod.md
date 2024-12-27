@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Der Müde Tod (1921)"
+imdb_url: "tt0012494"
+wikipedia_url: "Destiny (1921 film)"
 tags:
   - 1920s 
   - Fritz Lang

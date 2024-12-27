@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Day the Earth Stood Still (1951)"
+imdb_url: "tt0043456"
+wikipedia_url: "The Day the Earth Stood Still"
 tags:
   - 1950s 
   - Robert Wise

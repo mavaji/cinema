@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "L'armée des ombres (1969)"
+imdb_url: "tt0064040"
+wikipedia_url: "Army of Shadows"
 tags:
   - 1960s 
   - Jean-Pierre Melville

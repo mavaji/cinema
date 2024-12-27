@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Cat on a Hot Tin Roof (1958)"
+imdb_url: "tt0051459"
+wikipedia_url: "Cat on a Hot Tin Roof (1958 film)"
 tags:
   - 1950s 
   - Richard Brooks

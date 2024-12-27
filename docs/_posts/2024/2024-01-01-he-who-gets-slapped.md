@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "He Who Gets Slapped (1924)"
+imdb_url: "tt0014972"
+wikipedia_url: "He Who Gets Slapped (film)"
 tags:
   - 1920s 
   - Victor Sjöström

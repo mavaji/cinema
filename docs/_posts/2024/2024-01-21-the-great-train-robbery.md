@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Great Train Robbery (1903)"
+imdb_url: "tt0000439"
+wikipedia_url: "The Great Train Robbery (1903 film)"
 tags:
   - 1900s 
   - Edwin S. Porter

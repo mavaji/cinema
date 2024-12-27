@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Ich möchte kein Mann sein (1918)"
+imdb_url: "tt0010281"
+wikipedia_url: "I Don't Want to Be a Man"
 tags:
   - 1910s 
   - Ernst Lubitsch

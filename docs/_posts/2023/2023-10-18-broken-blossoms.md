@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Broken Blossoms (1919)"
+imdb_url: "tt0009968"
+wikipedia_url: "Broken Blossoms"
 tags:
   - 1910s 
   - D.W. Griffith

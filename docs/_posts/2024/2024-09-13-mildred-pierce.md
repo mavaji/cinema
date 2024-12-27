@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Mildred Pierce (1945)"
+imdb_url: "tt0037913"
+wikipedia_url: "Mildred Pierce (film)"
 tags:
   - 1940s 
   - Michael Curtiz

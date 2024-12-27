@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Un Homme et Une Femme (1966)"
+imdb_url: "tt0061138"
+wikipedia_url: "A Man and a Woman"
 tags:
   - 1960s 
   - Claude Lelouch

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Broken Lullaby (1932)"
+imdb_url: "tt0022725"
+wikipedia_url: "Broken Lullaby"
 tags:
   - 1930s 
   - Ernst Lubitsch

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Die Büchse der Pandora (1929)"
+imdb_url: "tt0018737"
+wikipedia_url: "Pandora's Box (1929 film)"
 tags:
   - 1920s 
   - Georg Wilhelm Pabst

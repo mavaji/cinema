@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Die Freudlose Gasse (1925)"
+imdb_url: "tt0015842"
+wikipedia_url: "Joyless Street"
 tags:
   - 1920s 
   - Georg Wilhelm Pabst
