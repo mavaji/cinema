@@ -1,0 +1,21 @@
+<p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-link" aria-hidden="true"></i> External links: </strong>
+    <span>
+      <a href="https://www.imdb.com/title/{{ page.imdb_url }}" class="page__taxonomy-item p-category" target="_blank">
+        <i class="fab fa-fw fa-imdb" aria-hidden="true"></i> IMDb
+      </a>
+      <span class="sep">, </span>
+      <a href="https://en.wikipedia.org/wiki/{{ page.wikipedia_url }}" class="page__taxonomy-item p-category"
+         target="_blank">
+        <i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia
+      </a>
+  </span>
+</p>
+
+{% if site.tag_archive.type and page.tags[0] %}
+{% include tag-list.html %}
+{% endif %}
+
+{% if site.category_archive.type and page.categories[0] %}
+{% include category-list.html %}
+{% endif %}
